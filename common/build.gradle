@@ -1,0 +1,9 @@
+apply plugin: 'java'
+dependencies {
+    compile 'com.google.code.gson:gson:2.2.3'
+    compile 'org.projectlombok:lombok:1.12.2'
+    compile 'commons-io:commons-io:2.4'
+    compile 'commons-codec:commons-codec:1.10'
+    compile 'org.apache.commons:commons-compress:1.9'
+    compile 'commons-beanutils:commons-beanutils:1.8.3'
+}
